@@ -61,7 +61,7 @@ No manual code reading required. Drop in an APK, get working Frida scripts out.
 ### One-command setup
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/apkshield-pt
+git clone https://github.com/Whitehat987/apkshield-pt
 cd apkshield-pt
 bash setup.sh
 ```
