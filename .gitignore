@@ -1,0 +1,7 @@
+apkshield_output/
+__pycache__/
+*.pyc
+*.pyo
+.env
+*.apk
+*.zip
